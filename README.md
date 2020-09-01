@@ -36,7 +36,9 @@ Nous verrons ainsi :
 - Comment manipuler les données spatiales ?
 - Comment visualiser les données spatiales ?
 
-[https://keen-swartz-3146c4.netlify.app](https://keen-swartz-3146c4.netlify.app)
+[Spatial Data science](https://keen-swartz-3146c4.netlify.app)
+
+Edzer Pebesma, Roger Bivand
 
 This book introduces and explains the concepts underlying spatial data: points, lines, polygons, rasters, coverages, geometry attributes, data cubes, reference systems, as well as higher-level concepts including how attributes relate to geometries and how this affects analysis
 
