@@ -1,5 +1,5 @@
 ## R 
-**These ressources below are awesome if you need to dive in spatial data science by using R**
+**These resources below are awesome if you need to dive in spatial data science by using R**
 
 [Introduction to Spatial Data Programming with R](http://132.72.155.230:3838/r/index.html)
 
