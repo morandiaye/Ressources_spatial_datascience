@@ -103,6 +103,10 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 ## GIT
 [Github with R](https://happygitwithr.com)
 
+## Shiny
+[Mastering Shiny](https://mastering-shiny.org)
+[JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/)
+
 
 
 
