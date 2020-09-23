@@ -8,6 +8,7 @@
 This website provides materials to learn about spatial data analysis and modeling with R. R is a widely used programming language and software environment for data science. R has advanced capabilities for managing spatial data; and it provides unparalleled opportunities for analyzing such data.
 Powered by **Feed The Future**
 
+[Rayshader 3D Plotting](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae6642b2-c2be-4ad0-846c-aafb00e00129)
 [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 
 [R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/)
