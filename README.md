@@ -100,6 +100,9 @@ Resources build by Michael Pyrcz, an Associate Professor at The University of Te
 
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 
+## GIT
+[Github with R](https://happygitwithr.com)
+
 
 
 
