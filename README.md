@@ -105,6 +105,7 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 ## Shiny
 [Mastering Shiny](https://mastering-shiny.org)
+
 [JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/)
 
 
