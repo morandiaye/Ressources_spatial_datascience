@@ -10,6 +10,8 @@
 ## Stastistique 
 [statistique agronomie](http://math.agrocampus-ouest.fr/infoglueDeliverLive/enseignement/support2cours/videos)
 
+[Rstudio BA-BA vers PRO](https://education.rstudio.com/learn/)
+
 [Apprendre les statistiques avec les meilleurs ressources en francais](https://www.sfds.asso.fr/fr/enseignement_de_la_statistique/ressources/enseignement_superieur/597-par_thematiques/)
 
 [Data science with R correction](https://jrnold.github.io/r4ds-exercise-solutions/iteration.html)
@@ -98,7 +100,7 @@ A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio confe
 This unit brings together the theoretical concepts of landscape ecology with spatial analysis techniques from remote sensing and GIS to address landscape scale applications of relevance to natural resource management.
 
 ## Others resources
-
+[Suitability with raster and vector and QGIS BLOG](https://www.qgistutorials.com/en/docs/3/multi_criteria_overlay.html)
 [ICLR 2020 Workshop on Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/)
 
 Machine learning and deep learning in agricultural field
