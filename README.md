@@ -1,5 +1,8 @@
 ## Sol
 [Sols tropicaux video cours universite agrocampus](https://vimeo.com/408471731)
+
+[Collection de dcours et documents en Science du sol](https://www.fortheloveofsoil.org/educate)
+
 ## Database in spatial
 [base de donnee spatial avec qgis](https://tice.agrocampus-ouest.fr/mod/imscp/view.php?id=28631&forceview=1)
 
