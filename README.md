@@ -3,6 +3,8 @@
 
 ## Blog website
 
+[site web academique](http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#github)
+
 [blogdown package](https://summer-of-blogdown.netlify.app)
 
 
