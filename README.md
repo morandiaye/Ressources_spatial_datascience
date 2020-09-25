@@ -12,7 +12,10 @@
 
 [Apprendre les statistiques avec les meilleurs ressources en francais](https://www.sfds.asso.fr/fr/enseignement_de_la_statistique/ressources/enseignement_superieur/597-par_thematiques/)
 
+[Data science with R correction](https://jrnold.github.io/r4ds-exercise-solutions/iteration.html)
+
 ## R 
+
 **These resources below are awesome if you need to dive in spatial data science by using R**
 
 [Introduction to Spatial Data Programming with R](http://132.72.155.230:3838/r/index.html)
