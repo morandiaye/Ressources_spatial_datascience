@@ -1,3 +1,7 @@
+
+## Stastistique 
+[statistique agronomie](http://math.agrocampus-ouest.fr/infoglueDeliverLive/enseignement/support2cours/videos)
+
 ## R 
 **These resources below are awesome if you need to dive in spatial data science by using R**
 
