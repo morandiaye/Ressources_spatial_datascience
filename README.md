@@ -101,6 +101,7 @@ This unit brings together the theoretical concepts of landscape ecology with spa
 
 ## Others resources
 [Suitability with raster and vector and QGIS BLOG](https://www.qgistutorials.com/en/docs/3/multi_criteria_overlay.html)
+
 [ICLR 2020 Workshop on Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/)
 
 Machine learning and deep learning in agricultural field
