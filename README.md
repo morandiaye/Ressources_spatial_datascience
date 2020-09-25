@@ -107,6 +107,8 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 ## GIT
 [Github with R](https://happygitwithr.com)
 
+[Excel and GIT with R](https://rstudio-conf-2020.github.io/r-for-excel/github.html)
+
 ## Shiny
 [Mastering Shiny](https://mastering-shiny.org)
 
