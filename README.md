@@ -1,3 +1,8 @@
+## Blog website
+
+[blogdown package](https://summer-of-blogdown.netlify.app)
+
+
 
 ## Stastistique 
 [statistique agronomie](http://math.agrocampus-ouest.fr/infoglueDeliverLive/enseignement/support2cours/videos)
@@ -82,6 +87,10 @@ A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio confe
 This unit brings together the theoretical concepts of landscape ecology with spatial analysis techniques from remote sensing and GIS to address landscape scale applications of relevance to natural resource management.
 
 ## Others resources
+
+[ICLR 2020 Workshop on Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/)
+
+Machine learning and deep learning in agricultural field
 
 [Repository](https://github.com/robmarkcole/satellite-image-deep-learning)
 
