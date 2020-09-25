@@ -87,6 +87,9 @@ A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio confe
 [Introduction to Python for Geographic Data Analysis](https://pythongis.org)
 
 ## GEE
+
+[Introduction GEE](https://www.paulamoraga.com/tutorial-gee/#)
+
 [Environmental Monitoring and Modelling](https://www.geospatialecology.com/env306/)
 
 This unit brings together the theoretical concepts of landscape ecology with spatial analysis techniques from remote sensing and GIS to address landscape scale applications of relevance to natural resource management.
