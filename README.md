@@ -7,6 +7,8 @@
 ## Stastistique 
 [statistique agronomie](http://math.agrocampus-ouest.fr/infoglueDeliverLive/enseignement/support2cours/videos)
 
+[Apprendre les statistiques avec les meilleurs ressources en francais](https://www.sfds.asso.fr/fr/enseignement_de_la_statistique/ressources/enseignement_superieur/597-par_thematiques/)
+
 ## R 
 **These resources below are awesome if you need to dive in spatial data science by using R**
 
