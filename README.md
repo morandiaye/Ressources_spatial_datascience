@@ -72,6 +72,11 @@ Edzer Pebesma, Roger Bivand
 
 This book introduces and explains the concepts underlying spatial data: points, lines, polygons, rasters, coverages, geometry attributes, data cubes, reference systems, as well as higher-level concepts including how attributes relate to geometries and how this affects analysis
 
+[Why R workshop with Roger Bivan Paula Tom Hengl](https://www.youtube.com/watch?v=_HBpzbbUVgc)
+
+Conference sur le passé et l'avenir de l'usage du langage R dans le domaine spatial computing.
+les principaux packages qui de plus en plus utilisé dans le spatial sont exposé.
+
 [CASA0005 Geographic Information Systems and Science](https://andrewmaclachlan.github.io/CASA0005repo/index.html)
 
 After having taking this module, you should be able to:
