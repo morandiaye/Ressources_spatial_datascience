@@ -6,13 +6,15 @@
 ## Database in spatial
 [base de donnee spatial avec qgis](https://tice.agrocampus-ouest.fr/mod/imscp/view.php?id=28631&forceview=1)
 
-## Blog website
+## Blog website et Rmardown
 
 [Video creation de site web avec Rmarkdown all packages blogdown,distill](https://rstudio.com/resources/webinars/sharing-on-short-notice-how-to-get-your-materials-online-with-r-markdown/)
 
 [site web academique](http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#github)
 
 [blogdown package](https://summer-of-blogdown.netlify.app)
+
+[Rmarkdow distill blogdown  site ](https://rstudio.com/resources/webinars/sharing-on-short-notice-how-to-get-your-materials-online-with-r-markdown/)
 
 
 
