@@ -155,6 +155,9 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 [JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/)
 
+## website
+[website with blogdown](https://www.youtube.com/watch?v=ZLvtGhn9f5s)
+
 
 
 
