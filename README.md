@@ -110,6 +110,7 @@ A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio confe
 [Introduction to Python for Geographic Data Analysis](https://pythongis.org)
 
 ## GEE
+[Earth Engine with Python](http://mortcanty.github.io/src/)
 
 [Introduction GEE](https://www.paulamoraga.com/tutorial-gee/#)
 
