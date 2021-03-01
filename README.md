@@ -114,6 +114,9 @@ A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio confe
 [Introduction to Python for Geographic Data Analysis](https://pythongis.org)
 
 ## GEE
+
+[Building a Crop Yield Prediction App in Senegal Using Satellite Imagery and Jupyter](https://omdena.com/blog/yield-prediction/)
+
 [Earth Engine with Python](http://mortcanty.github.io/src/)
 
 [Introduction GEE](https://www.paulamoraga.com/tutorial-gee/#)
