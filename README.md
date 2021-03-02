@@ -3,6 +3,8 @@
 
 [Collection de cours et documents en Science du sol](https://www.fortheloveofsoil.org/educate)
 
+[Le spatial au service de la transition agro-écologique](https://www6.inrae.fr/ciag/CIAg-Environnement/Spatial-et-transition-agro-ecologique)
+
 ## Database in spatial
 [base de donnee spatial avec qgis](https://tice.agrocampus-ouest.fr/mod/imscp/view.php?id=28631&forceview=1)
 
