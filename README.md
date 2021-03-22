@@ -33,6 +33,8 @@
 
 **These resources below are awesome if you need to dive in spatial data science by using R**
 
+[R programming machinee learning spatial granolarr](https://sdesabbata.github.io/granolarr/lectures_400/)
+
 [video remote sensing with R](https://www.youtube.com/watch?v=k1K6nqgtRL8&t=551s)
 
 [Spatial Data Programming with R sur differents annees](https://geobgu.xyz)
