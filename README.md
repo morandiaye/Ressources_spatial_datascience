@@ -117,6 +117,8 @@ A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio confe
 
 [Introduction to Python for Geographic Data Analysis](https://pythongis.org)
 
+[data science Energy](https://lms-classroom.daytum.io/user/morandiaye/lab/tree/TOC.ipynb)
+
 ## GEE
 
 [Building a Crop Yield Prediction App in Senegal Using Satellite Imagery and Jupyter](https://omdena.com/blog/yield-prediction/)
