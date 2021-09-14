@@ -1,6 +1,8 @@
 ## Sol
 [Sols tropicaux video cours universite agrocampus](https://vimeo.com/408471731)
 
+[Bonne ressources sur R en pedologie](https://obrl-soil.github.io/page2/)
+
 [Collection de cours et documents en Science du sol](https://www.fortheloveofsoil.org/educate)
 
 [Le spatial au service de la transition agro-écologique](https://www6.inrae.fr/ciag/CIAg-Environnement/Spatial-et-transition-agro-ecologique)
