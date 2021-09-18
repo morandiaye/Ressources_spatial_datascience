@@ -1,4 +1,7 @@
 ## Sol
+
+[Sol cours ENSA](http://ncss-tech.github.io/stats_for_soil_survey/book/intro.html)
+
 [Sols tropicaux video cours universite agrocampus](https://vimeo.com/408471731)
 
 [Bonne ressources sur R en pedologie](https://obrl-soil.github.io/page2/)
