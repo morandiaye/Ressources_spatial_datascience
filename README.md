@@ -1,5 +1,7 @@
 ## Sol
 
+[FAO soil cours](http://www.fao.org/global-soil-partnership/glosolan/soil-analysis/capacity-development/en/)
+
 [Sol cours ENSA](http://ncss-tech.github.io/stats_for_soil_survey/book/intro.html)
 
 [Sols tropicaux video cours universite agrocampus](https://vimeo.com/408471731)
