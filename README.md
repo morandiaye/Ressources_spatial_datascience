@@ -94,6 +94,8 @@ Nous verrons ainsi :
 - Comment manipuler les données spatiales ?
 - Comment visualiser les données spatiales ?
 
+[L’OSGeo et les logiciels libres en géomatique](https://roelandtn.frama.io/cours-foss4g/)
+
 [Spatial Data science](https://keen-swartz-3146c4.netlify.app)
 
 Edzer Pebesma, Roger Bivand
