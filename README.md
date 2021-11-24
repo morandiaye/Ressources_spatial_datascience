@@ -69,6 +69,9 @@ Powered by **Feed The Future**
 
 This workshop is designed for the attendance of FOSS4G 2019. So basics knowledge in GIS is expected (simple features, projections and CRS, geometrical operations, etc.).
 
+[Introduction to geovisualization and web cartography](http://osgl.grf.bg.ac.rs/books/gvvk-en/)
+
+
 [Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny](https://www.paulamoraga.com/book-geospatial/)
 
 The book covers the following topics:
