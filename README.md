@@ -1,5 +1,7 @@
 ## Sol
 
+[Training School and Workshop on Dust Aerosol Detection and Monitoring ](https://training.eumetsat.int/course/view.php?id=420)
+
 [FAO soil cours](http://www.fao.org/global-soil-partnership/glosolan/soil-analysis/capacity-development/en/)
 
 [Sol cours ENSA](http://ncss-tech.github.io/stats_for_soil_survey/book/intro.html)
