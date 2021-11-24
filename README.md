@@ -40,6 +40,8 @@
 
 **These resources below are awesome if you need to dive in spatial data science by using R**
 
+[Conference sur r spatial OpenGeoHub](https://opendatascience.eu/r-training/)
+
 [R for geographical  data science](https://sdesabbata.github.io/r-for-geographic-data-science/)
 
 [R programming machinee learning spatial granolarr](https://sdesabbata.github.io/granolarr/lectures_400/)
@@ -122,6 +124,8 @@ After having taking this module, you should be able to:
 
 A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio conference 2020
 ## Python
+[Coference python spatial OpenGeoHub]
+
 [Geo-Python](https://automating-gis-processes.github.io/site/lessons/L2/overview.html)
 
 [Lessons: Use Remote sensing data in R or Python](https://www.earthdatascience.org/tags/remote-sensing/)
