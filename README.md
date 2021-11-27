@@ -131,7 +131,7 @@ After having taking this module, you should be able to:
 
 A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio conference 2020
 ## Python
-[Coference python spatial OpenGeoHub]
+[Coference python spatial OpenGeoHub](https://opendatascience.eu/python-training/)
 
 [Geo-Python](https://automating-gis-processes.github.io/site/lessons/L2/overview.html)
 
