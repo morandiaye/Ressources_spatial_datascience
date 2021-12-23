@@ -200,6 +200,8 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 [website with blogdown](https://www.youtube.com/watch?v=ZLvtGhn9f5s)
 
 
+## JULIA
 
+[Julia_tutorial](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html)
 
 
