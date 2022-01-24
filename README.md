@@ -143,6 +143,8 @@ A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio confe
 
 [ML4EO Bootcamp Lectures](https://www.youtube.com/watch?v=yPCRzUNCQdo&list=PL3QzFgBMGnbRREwZWFPpaFN1WLXKUW6a7&index=7)
 
+[Deep Learning in remote sensing](https://developmentseed.org/tensorflow-eo-training/docs/Lesson1a_Intro_ML_NN_DL.html)
+
 ## GEE
 
 [Building a Crop Yield Prediction App in Senegal Using Satellite Imagery and Jupyter](https://omdena.com/blog/yield-prediction/)
