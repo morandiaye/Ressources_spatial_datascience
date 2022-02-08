@@ -159,6 +159,8 @@ This unit brings together the theoretical concepts of landscape ecology with spa
 
 ## Others resources
 
+[Computer vision for agriculture](https://www.agriculture-vision.com/agriculture-vision-2021/program-schedule-2021)
+
 [Machine Learning on Earth Observation: ML4EO Bootcamp](https://online.atingi.org/mod/h5pactivity/view.php?id=29792#h5pbookid=3584&chapter=h5p-interactive-book-chapter-83e781b5-2885-4058-ab30-b4bb229e08a1&section=0)
 
 [Suitability with raster and vector and QGIS BLOG](https://www.qgistutorials.com/en/docs/3/multi_criteria_overlay.html)
