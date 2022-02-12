@@ -42,6 +42,8 @@
 
 **These resources below are awesome if you need to dive in spatial data science by using R**
 
+[Reference pour apprendre shiny app](https://faithmusili.netlify.app/project/)
+
 [Conference sur r spatial OpenGeoHub](https://opendatascience.eu/r-training/)
 
 [R for geographical  data science](https://sdesabbata.github.io/r-for-geographic-data-science/)
