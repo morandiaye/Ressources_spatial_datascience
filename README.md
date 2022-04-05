@@ -3,6 +3,8 @@
 
 [Der condition pour financement](https://der.sn/fr/pavie/projets-eligibles)
 
+[PSE VERT APPEL A CANDIDATURE](https://forms.office.com/pages/responsepage.aspx?id=t-aGWBiz1k-OIC513fpZfnFyWl87LcZAlHLLaJaUPYxUMFBLVTBYMlVUSDlJTVZQTE84NTRZUzEzWC4u)
+
 ## Sol
 
 [Training School and Workshop on Dust Aerosol Detection and Monitoring ](https://training.eumetsat.int/course/view.php?id=420)
