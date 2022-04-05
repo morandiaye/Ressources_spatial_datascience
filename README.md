@@ -1,3 +1,8 @@
+
+## Financement
+
+[Der condition pour financement](https://der.sn/fr/pavie/projets-eligibles)
+
 ## Sol
 
 [Training School and Workshop on Dust Aerosol Detection and Monitoring ](https://training.eumetsat.int/course/view.php?id=420)
