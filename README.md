@@ -219,4 +219,7 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 [Julia_tutorial](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html)
 
+## STAC
+[Workshop sur STAC](https://sites.google.com/view/cloudnativegeo/)
+
 
